@@ -20,7 +20,7 @@ gcM está implementado con el modelo de datos territoriales denominado **LADM** 
 - Consulta de parcelas y datos de valores catastrales, usos y otros
 - Visor Street View asociado a parcela catastral
 
-**Versión 2**  **Contactar para más información.**
+**Versión 2**
 - Automatización de la carga de datos en formato XML 
 - Herramienta de análisis tributario
 - Generación de cédulas y certificados catastrales
