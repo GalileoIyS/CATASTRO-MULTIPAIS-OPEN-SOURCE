@@ -1,9 +1,8 @@
-## Gestión Catastral Multipaís \{gcM\} 
+##  CATASTRO MULTIPAÍS OPEN SOURCE
 
 [![Build Status](https://www.travis-ci.org/GalileoIyS/-gcM-GESTION-CATASTRAL-MULTIPAIS.svg?branch=master)](https://www.travis-ci.org/GalileoIyS/-gcM-GESTION-CATASTRAL-MULTIPAIS)
 ![](https://img.shields.io/badge/license-BSD-blue.svg)
 
-*Esta herramienta digital forma parte del catálogo de herramientas del **Banco Interamericano de Desarrollo** [code.iadb.org](code.iadb.org)*.
 
 La Plataforma **Gestión Catastral Multipaís** permite el tratamiento, consulta y actualización continua de la información catastral de un territorio. Con esta herramienta, funcionarios de las administraciones públicas pueden gestionar los tributos que afectan a la mayor fuente de ingresos de administraciones territoriales y conectarlo con diferentes áreas de la administración. (Ver demo en http://gcmclient.galileoiys.es/)
 
@@ -21,7 +20,7 @@ gcM está implementado con el modelo de datos territoriales denominado **LADM** 
 - Consulta de parcelas y datos de valores catastrales, usos y otros
 - Visor Street View asociado a parcela catastral
 
-**Versión 2** [Prevista para Diciembre 2018] - **Contactar para más información.**
+**Versión 2**  **Contactar para más información.**
 - Automatización de la carga de datos en formato XML 
 - Herramienta de análisis tributario
 - Generación de cédulas y certificados catastrales
@@ -30,7 +29,7 @@ gcM está implementado con el modelo de datos territoriales denominado **LADM** 
 - Integración con sistemas cobratorios municipales - (Ver otros productos de Galileo para [más información](http://www.galileoiys.es/productos-3/)) 
 - Servicios de hospedaje local/en la nube
 
-**Versión 3** [Prevista para Julio 2019]
+**Versión 3**
 - Integración con registro de propiedad y notariados (y otras entidades)
 - Control de mutaciones catastrales (pruebas con Blockchain)
 - Planeación, infraestructuras y equipamiento municipal
@@ -41,7 +40,7 @@ gcM está implementado con el modelo de datos territoriales denominado **LADM** 
 ---
 Se ofrece soporte para la instalación y configuración de la herramienta. Contactar a galileo@galileoiys.es para más información.
 
-#### 1. Prerequisitos
+#### 1. Pre-requisitos
 
 - **Microsoft Visual Studio Code** Utilizar "_npm install_" para descargar e instalar todas las depencias del proyecto.
 - **Microsoft Visual Studio 2017** 
@@ -100,10 +99,7 @@ Empleamos el entorno de desarrollo Microsoft Visual Studio Code para el desarrol
 ### Autoría
 ---
 * **Galileo Ingeniería y Servicios, S.A. https://www.galileoiys.es/**
-* Juan Antonio Ubalde <jubalde@galileoiys.es>
-* Gregorio Martín <gmartin@galileoiys.es>
-* Domingo Rodríguez <drodriguez@galileoiys.es>
-* Nicolás Hernández <nhernandez@galileoiys.es>
+
 
 ### Referencias
 ---
