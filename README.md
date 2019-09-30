@@ -36,6 +36,7 @@ gcM está implementado con el modelo de datos territoriales denominado **LADM** 
 - Catastro rural
 - Desarrollo de la **Oficina Virtual de Catastro** en línea para consultas de ciudadanos, tramitación de expedientes, pagos telemáticos, y transparencia tributaria.
 
+
 ### Guía de instalación
 ---
 Se ofrece soporte para la instalación y configuración de la herramienta. Contactar a galileo@galileoiys.es para más información.
